@@ -23,8 +23,8 @@
 
 - **프로젝트명:** 자료요정
 - **프로젝트 기간:** 2025.03.25 ~ 2025.03.30
-- **프로젝트 형태:** 기업 연계 프로젝트
-- **목표:** 기존 키워드 기반 챗봇의 한계를 극복하고, 사내 업무 규정 및 절차에 대한 정확하고 유연한 정보를 제공하는 LLM 기반 챗봇 서비스 개발
+- **프로젝트 형태:** 
+- **목표:** 
 - **주요 타겟 사용자:** 대학생, 직장인, 자영업자 
 
 ---
@@ -94,6 +94,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
       </td>
+      <td>백엔드</td>
     </tr>
   </tbody>
 </table>
