@@ -11,12 +11,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="">홈페이지</a>
-    |  
-  <a href="">Swagger</a>
-</div>
-
 ---
 
 ## ✍️ 프로젝트 개요
