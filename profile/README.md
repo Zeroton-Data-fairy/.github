@@ -66,7 +66,7 @@
 | **이름**    | **역할**                 | 
 |:-----------:|:------------------------:|
 | 김태우      | Project Manager          | 
-| 송유선      | Project Assitant         |
+| 송유선      | Product Planner          |
 | 심연호      | Back-end Developer       | 
 | 정윤성      | Back-end Developer       | 
 
