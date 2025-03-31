@@ -83,6 +83,14 @@
   </thead>
   <tbody>
     <tr>
+      <td>기획</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>디자인</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>프론트엔드</td>
       <td>
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white"/>
