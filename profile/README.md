@@ -54,9 +54,7 @@
 
 ## 📌 주요 기능
 
-### **0. 회원가입 | 로그인**
-
-#### **회원가입**
+### **1. 메인 페이지**
 
 <div align="center">
 <img src="./assets/회원가입.gif" alt="회원가입" style="border-radius: 10px; width: 700px;"/>
