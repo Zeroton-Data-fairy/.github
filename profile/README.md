@@ -134,7 +134,7 @@
 ---
 
 ## 📂 문서 자료
-
+- [프로젝트 노션](https://mini-shock-1ff.notion.site/1c3b0eecbf8381059df6d5b7776b838c?pvs=4)
 - [PDF 보기](./assets/CLEARSHOT_제로톤_5팀.pdf)
 
 ---
