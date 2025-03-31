@@ -60,11 +60,11 @@
 
 | GPT 요약 및 자동 카테고리 분류 기능 | 
 |:--:|
-| ![category](./images/메인페이지.png) | 
+| ![category](./assets/메인페이지.png) | 
 
 | 메인 페이지 | 폴더 페이지 | GPT 요약 및 자동 카테고리 분류 기능 |
 |:--:|:--:|:--:|
-| ![main](./images/main.png) | ![folder](./images/folder.png) | ![category](./images/category.png) |
+| ![main](./assets/메인페이지.png) | ![folder](./assets/메인페이지.png) | ![category](./assets/메인페이지.png) |
 
 ---
 
