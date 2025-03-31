@@ -56,11 +56,11 @@
 
 | 메인 페에지 | 폴더 페이지 |
 |:--:|:--:|
-| ![login](./assets/메인페이지.png) | ![profile](./assets/폴더페이지.png) |
+| ![main](./assets/메인페이지.png) | ![folder](./assets/폴더페이지.png) |
 
 | GPT 요약 및 자동 카테고리 분류 기능 |  Onboarding (주요 기능 설명)|
-|:--:|
-| ![category](./assets/자동카테고리.png) | ![category](./assets/Onboarding.png) |  
+|:--:|:--:|
+| ![category](./assets/자동카테고리.png) | ![Onboarding](./assets/Onboarding.png) |  
 
 
 ---
