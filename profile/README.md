@@ -86,13 +86,13 @@
     <tr>
       <td>기획</td>
       <td>
-        <img src="https://img.shields.io/badge/Notion-61DAFB?style=flat&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td>디자인</td>
       <td>
-      <img src="https://img.shields.io/badge/Figma-61DAFB?style=flat&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -105,8 +105,8 @@
     <tr>
       <td>백엔드</td>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-61DAFB?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-3178C6?style=flat&logo=Mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white"/>
       </td>
     </tr>
   </tbody>
