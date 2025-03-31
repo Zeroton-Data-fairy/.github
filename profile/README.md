@@ -98,7 +98,7 @@
     <tr>
       <td>프론트엔드</td>
       <td>
-        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
       </td>
     </tr>
