@@ -1,4 +1,4 @@
-
+![GitHub followers](https://img.shields.io/github/followers/Zeroton-Data-fairy?label=Followers&style=social)
 <div align="center">
   <h1>자료요정 - 스크린샷 정리 자동화 서비스 </h1>
 </div>
