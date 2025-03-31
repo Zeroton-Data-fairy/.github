@@ -85,11 +85,15 @@
   <tbody>
     <tr>
       <td>기획</td>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Notion-61DAFB?style=flat&logo=notion&logoColor=white"/>
+      </td>
     </tr>
     <tr>
       <td>디자인</td>
-      <td></td>
+      <td>
+      <img src="https://img.shields.io/badge/Figma-61DAFB?style=flat&logo=figma&logoColor=white"/>
+      </td>
     </tr>
     <tr>
       <td>프론트엔드</td>
