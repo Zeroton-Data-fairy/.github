@@ -108,6 +108,7 @@
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white"/>
+         <img src="https://img.shields.io/badge/PostMan-4479A1?style=flat&logo=postman&logoColor=white"/>
       </td>
     </tr>
   </tbody>
