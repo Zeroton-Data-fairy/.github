@@ -54,6 +54,28 @@
 
 ## 📌 주요 기능
 
+<table>
+  <tr>
+    <th align="center">메인 페이지</th>
+    <th align="center">폴더 페이지</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/메인페이지.png" width="400"/></td>
+    <td align="center"><img src="./assets/폴더페이지.png" width="400"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th align="center">GPT 요약 및 자동 카테고리 분류 기능</th>
+    <th align="center">Onboarding (주요 기능 설명)</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/자동카테고리.png" width="400"/></td>
+    <td align="center"><img src="./assets/Onboarding.png" width="400"/></td>
+  </tr>
+</table>
+
 | 메인 페에지 | 폴더 페이지 |
 |:--:|:--:|
 | ![main](./assets/메인페이지.png) | ![folder](./assets/폴더페이지.png) |
