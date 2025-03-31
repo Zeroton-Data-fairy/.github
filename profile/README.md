@@ -57,7 +57,7 @@
 ### **1. 메인 페이지**
 
 <div align="center">
-<img src="./assets/메인페이지.png" alt="메인페이지" style="border-radius: 10px; width: 700px;"/>
+<img src="./assets/메인페이지.png" alt="메인페이지" style="border-radius: 10px; "/>
 </div>
 
 ---
