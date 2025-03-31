@@ -58,17 +58,9 @@
 |:--:|:--:|
 | ![login](./assets/메인페이지.png) | ![profile](./assets/폴더페이지.png) |
 
-### **1. 메인 페이지**
-
-<div align="center">
-<img src="./assets/메인페이지.png" alt="메인페이지" style="border-radius: 10px; "/>
-</div>
-
-### **2. 폴더 페이지**
-
-<div align="center">
-<img src="./assets/폴더페이지.png" alt="폴더페이지" style="border-radius: 10px; "/>
-</div>
+| 다양한 카테고리로 프로젝트 조회 | 
+|:--:|:--:|
+| ![category](./images/메인페이지.png) | 
 
 ---
 
