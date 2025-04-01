@@ -110,8 +110,8 @@
     <tr>
       <td>프론트엔드</td>
       <td>
-        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
         <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white"/> 
       </td>
     </tr>
