@@ -121,6 +121,12 @@
          <img src="https://img.shields.io/badge/PostMan-4479A1?style=flat&logo=postman&logoColor=white"/>
       </td>
     </tr>
+    <tr>
+      <td>인프라</td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS EC2-339933?style=flat&logo=awsec2&logoColor=white"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
