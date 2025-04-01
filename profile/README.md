@@ -119,9 +119,9 @@
       <td>백엔드</td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-4479A1?style=flat&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostMan-4479A1?style=flat&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-546E7A?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-546E7A?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postman-546E7A?style=flat&logo=postman&logoColor=white"/>
       </td>
     </tr>
     <tr>
