@@ -112,7 +112,7 @@
       <td>
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript&logoColor=white"/>
-         <img src="https://img.shields.io/badge/NPM-3178C6?style=flat&logo=npm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NPM-4FC3F7?style=flat&logo=npm&logoColor=white"/>
       </td>
     </tr>
     <tr>
