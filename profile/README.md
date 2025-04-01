@@ -103,7 +103,7 @@
       <td>디자인</td>
       <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat&logo=Adobephotoshop&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat&logo=photoshop&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
       </td>
     </tr>
